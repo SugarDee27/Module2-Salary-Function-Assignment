@@ -71,7 +71,7 @@ print(employee_data)
 
 ---
 
-## 📝 Notes
+## Notes
 - Replace `"EMPLOYEE NAME"` with an exact match from the dataset.
 - Ensure R is installed and `rpy2` is configured before running R cells in Jupyter.
 - Keep all files in the same directory for smooth execution.
