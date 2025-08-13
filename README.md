@@ -32,12 +32,12 @@ It includes:
 Install Python dependencies:
 ```bash
 pip install pandas rpy2
-R
-R installed on your system (Download here)
 
-No extra R packages required for this assignment.
+## R
+ - R installed on your system (Download here)
+ - No extra R packages required for this assignment.
 
-How to Run
+### How to Run
 Open the Jupyter Notebook:
 
 bash
