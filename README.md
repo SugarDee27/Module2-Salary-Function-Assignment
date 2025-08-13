@@ -1,6 +1,6 @@
 # Module 2 Assignment — Salary Function
 
-## 📌 Overview
+## Overview
 This project processes employee salary data, performs lookups, handles errors, exports data to CSV, and integrates with R for further processing.  
 
 The workflow includes:
@@ -13,9 +13,9 @@ The workflow includes:
 
 ---
 
-## 📂 Files in This Project
+## Files in This Project
 - **`Salary_Function_Assignment.ipynb`** — Main Jupyter Notebook (Python + R code).
-- **`Total.csv`** — Provided salary dataset.
+- **`Total.csv`** — Provided salary dataset. Please note: Total.csv is provided in a compressed format due to its large size (over  GitHub’s 25 MB upload limit). Extract the CSV file and place it in the same directory as the other project files before running the notebook.
 - **`Employee_Profile.zip`** — Example zipped output of an employee profile.
 - **`README.md`** — Instructions for setup and usage.
 
@@ -37,15 +37,15 @@ The workflow includes:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
-### 1️⃣ Open the Notebook
+### Open the Notebook
 In your terminal:
 ```bash
 jupyter notebook Salary_Function_Assignment.ipynb
 ```
 
-### 2️⃣ Step-by-Step in the Notebook
+### Step-by-Step in the Notebook
 - **Step 1:** Import `Total.csv`  
   Make sure `Total.csv` is in the same directory as the notebook.  
 - **Step 2 & 3:** Search for an employee:
@@ -60,7 +60,7 @@ jupyter notebook Salary_Function_Assignment.ipynb
   - `Employee Profile/EMPLOYEE_NAME.csv`
   - `Employee_Profile.zip`
 
-### 3️⃣ Step 6 — R Code in Jupyter
+### Step 6 — R Code in Jupyter
 Run the following in an R cell:
 ```R
 %%R
@@ -77,7 +77,3 @@ print(employee_data)
 - Keep all files in the same directory for smooth execution.
 
 ---
-
-## 📌 Author
-- **Name:** *[Your Name Here]*  
-- **Course:** *Module 2 — Salary Function Assignment*
